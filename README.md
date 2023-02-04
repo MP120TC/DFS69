@@ -1,5 +1,5 @@
 # DFS69 (Version1, December 2023)
-![alt text](https://github.com/MP120TC/Version1_2022/blob/main/MP120TC_complete.jpg?raw=true "MP120TC complete camera")
+![alt text](https://github.com/MP120TC/DFS69/blob/main/Assembled_DFS69.JPG?raw=true "DFS69 Film scanner")
 
 The DFS69 is a device that allows you to digitize/scan your 35mm and 120 film using a DSLR or Mirrorless camera.  It is intended to be a companion accessory to the MP120TC 3D printed 120 technical camera, but can work with many film formats.
 
